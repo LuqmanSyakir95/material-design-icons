@@ -1,4 +1,4 @@
-## Material Icons / Material Symbols
+## Material Icons / Material Symbols h
 
 These are two different official icon sets from Google, using the same underlying designs. Material Icons is the classic set, while Material Symbols was introduced in April 2022, built on variable font technology.
 
